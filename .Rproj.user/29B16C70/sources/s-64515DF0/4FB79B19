@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590433061307.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4FB79B19",
+    "lastKnownWriteTime" : 1590450099,
+    "last_content_update" : 1590450099880,
+    "path" : "~/Documents/covid19mobility/R/mod_mobility.R",
+    "project_path" : "R/mod_mobility.R",
+    "properties" : {
+        "cursorPosition" : "142,21",
+        "scrollLine" : "135",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

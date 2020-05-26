@@ -1,0 +1,57 @@
+state,start_som,start_sah,gatherings_banned,out_of_state,Schools,daycares,bars_rest,essential_only
+Alabama,2020-03-13,2020-04-04,10 or more,No,Yes (remainder of term),Yes,Yes,Yes
+Alaska,2020-03-11,2020-03-28,10 or more,Mandatory quarantine,Yes (remainder of term),Yes,Yes,Yes
+American Samoa,2020-01-29,NA,10 or more,Travel suspended,Yes (remainder of term),Yes,No,No
+Arizona,2020-03-11,2020-03-31,50 or more,Limited quarantine,Yes (remainder of term),Yes,Yes,Yes
+Arkansas,2020-03-11,NA,10 or more,No,Yes (remainder of term),Yes,Yes,Regional
+California,2020-03-04,2020-03-19,All,No,Yes (remainder of term),Yes,Yes,Yes
+Colorado,2020-03-10,2020-03-26,10 or more,No,Yes (remainder of term),Restricted,Yes,Yes
+Connecticut,2020-03-10,2020-03-23,All,Recommended quarantine,Yes (remainder of term),Yes,Yes,Yes
+Delaware,2020-03-12,2020-03-24,All,Mandatory quarantine,Yes (remainder of term),Yes,Yes,Yes
+District of Columbia,2020-03-11,2020-03-30,10 or more,No,Yes (remainder of term),Yes,Yes,Yes
+Florida,2020-03-01,2020-04-03,10 or more,Limited quarantine / Screened,Yes (remainder of term),Yes,Yes,Yes
+Georgia,2020-03-14,2020-04-03,10 or more,No,Yes (remainder of term),No,Yes,Yes
+Guam,2020-03-14,NA,All,No,Yes (remainder of term),Yes,Yes,Yes
+Hawaii,2020-03-04,2020-03-25,"11 or more, and public gathering in public places",Mandatory quarantine,Yes (remainder of term),Yes,Yes,Yes
+Idaho,2020-03-13,2020-03-25,All,Mandatory quarantine,Yes (remainder of term),Yes,Yes,Restricted
+Illinois,2020-03-09,2020-03-21,All,No,Yes (remainder of term),Yes,Yes,Yes
+Indiana,2020-03-06,2020-03-25,"All outside, and 11 or more inside a household",No,Yes (remainder of term),Yes,Yes,Yes
+Iowa,2020-03-09,NA,10 or more,No,Yes (remainder of term),Yes,Yes,Yes
+Kansas,2020-03-09,2020-03-30,10 or more,Limited quarantine,Yes (remainder of term),No,Yes,Yes
+Kentucky,2020-03-06,2020-03-26,10 or more,Mandatory quarantine,Yes (remainder of term),Yes,Yes,Yes
+Louisiana,2020-03-11,2020-03-23,11 or more,No,Yes (remainder of term),Yes,Yes,Yes
+Maine,2020-03-15,2020-04-02,10 or more,Mandatory quarantine,Yes (remainder of term),Yes,Yes,Restricted
+Maryland,2020-03-05,2020-03-30,10 or more,Mandatory quarantine,Yes (remainder of term),Yes,Yes,Yes
+Massachusetts,2020-03-10,2020-03-24,11 or more,Mandatory quarantine,Yes (remainder of term),Yes,Yes,Yes
+Michigan,2020-03-11,2020-03-24,All,No,Yes (remainder of term),Yes,Yes,Yes
+Minnesota,2020-03-13,2020-03-27,All,No,Yes (remainder of term),Yes,Yes,Yes
+Mississippi,2020-03-04,2020-04-03,All,No,Yes (remainder of term),No,Yes,Yes
+Missouri,2020-03-13,2020-04-06,10 or more,Regional,Yes (remainder of term),No,Yes,Yes
+Montana,2020-03-12,2020-03-28,10 or more,Mandatory quarantine,Yes (districts choice),Yes,Yes,Yes
+Nebraska,2020-03-13,NA,10 or more,Limited quarantine,Yes (remainder of term),Restricted,Restricted,No
+Nevada,2020-03-12,2020-04-01,10 or more,Mandatory quarantine,Yes (remainder of term),Yes,Yes,Yes
+New Hampshire,2020-03-13,2020-03-27,50 or more,Mandatory quarantine,Yes (remainder of term),Yes,Yes,Yes
+New Jersey,2020-03-09,2020-03-21,All,No,Yes (remainder of term),Yes,Yes,Yes
+New Mexico,2020-03-11,2020-03-24,6 or more,Mandatory quarantine,Yes (remainder of term),Yes,Yes,Yes
+New York,2020-03-07,2020-03-22,All,No,Yes (remainder of term),Yes,Yes,Yes
+North Carolina,2020-03-10,2020-03-30,10 or more,No,Yes (remainder of term),Yes,Yes,Yes
+North Dakota,2020-03-13,NA,50 or more,Mandatory quarantine,Yes (remainder of term),Yes,Yes,Yes
+N. Mariana Islands,2020-01-29,NA,10 or more,No,Yes (remainder of term),Yes,No,No
+Ohio,2020-03-09,2020-03-23,11 or more,Mandatory quarantine,Yes (remainder of term),Restricted,Yes,Yes
+Oklahoma,2020-03-15,2020-04-02,11 or more,Limited quarantine,Yes (remainder of term),Yes,Yes,Yes
+Oregon,2020-03-08,2020-03-23,All,No,Yes (remainder of term),Yes,Yes,Restricted
+Pennsylvania,2020-03-06,2020-04-01,10 or more (recommended),Limited quarantine,Yes (remainder of term),Yes,Yes,Yes
+Puerto Rico,2020-03-12,2020-03-15,All,Screened,Yes (remainder of term),Yes,Yes,Yes
+Rhode Island,2020-03-09,2020-03-28,25 or more,Mandatory quarantine,Yes (remainder of term),Yes,Yes,Yes
+South Carolina,2020-03-13,2020-04-07,50 or more,Limited quarantine,Yes (remainder of term),Yes,Yes,Yes
+South Dakota,2020-03-13,NA,50 or more,No,Yes (remainder of term),Yes,No,No
+Tennessee,2020-03-12,2020-04-02,10 or more,No,Yes (remainder of term),Yes,Yes,Yes
+Texas,2020-03-13,2020-04-02,10 or more,Limited quarantine,Yes (remainder of term),Yes,Yes,Yes
+Utah,2020-03-06,NA,10 or more,No,Yes (remainder of term),Yes,Yes,Regional
+U.S. Virgin Islands,2020-03-13,2020-03-25,All,No,Yes (remainder of term),Yes,Yes,Yes
+Vermont,2020-03-16,2020-03-25,10 or more,Mandatory quarantine,Yes (remainder of term),Yes,Yes,Yes
+Virginia,2020-03-12,2020-03-30,10 or more,No,Yes (remainder of term),Yes,Yes,Restricted
+Washington,2020-02-29,2020-03-23,All,No,Yes (remainder of term),Yes,Yes,Yes
+West Virginia,2020-03-04,2020-03-23,All,No,Yes (remainder of term),Yes,Yes,Yes
+Wisconsin,2020-03-12,2020-03-25,All,Mandatory quarantine,Yes (remainder of term),Restricted,Yes,Yes
+Wyoming,2020-03-12,NA,10 or more,Mandatory quarantine,Yes (remainder of term),Yes,Yes,No

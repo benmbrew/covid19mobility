@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590436168772.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C7D5E248",
+    "lastKnownWriteTime" : 1590448147,
+    "last_content_update" : 1590448147345,
+    "path" : "~/Documents/covid19mobility/data/update_data.R",
+    "project_path" : "data/update_data.R",
+    "properties" : {
+        "cursorPosition" : "62,0",
+        "scrollLine" : "45"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

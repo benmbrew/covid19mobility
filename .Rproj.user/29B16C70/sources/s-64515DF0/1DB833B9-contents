@@ -1,0 +1,72 @@
+#' The application User-Interface
+#' 
+#' @param request Internal parameter for `{shiny}`. 
+#'     DO NOT REMOVE.
+#' @import shiny
+#' @noRd
+app_ui <- function(request) {
+  tagList(
+    # Leave this function for adding external resources
+    golem_add_external_resources(),
+    # List the first level UI elements here 
+    fluidPage(
+      h1("covid19mobility")
+    )
+  )
+}
+
+#' Add external Resources to the Application
+#' 
+#' This function is internally used to add external 
+#' resources inside the Shiny application. 
+#' 
+#' @import shiny
+#' @importFrom golem add_resource_path activate_js favicon bundle_resources
+#' @noRd
+golem_add_external_resources <- function(){
+  
+  add_resource_path(
+    'www', app_sys('app/www')
+  )
+ 
+  tags$head(
+    favicon(),
+    bundle_resources(
+      path = app_sys('app/www'),
+      app_title = 'covid19mobility'
+    )
+    # Add here other external resources
+    # for example, you can add shinyalert::useShinyalert() 
+  )
+  body <- dashboardBody(
+    golem_add_external_resources(),
+    tabItems(
+      tabItem(
+        tabName="main",
+        navbarPage(title = '',
+                   navbarMenu("Mobility data",
+                              tabPanel("Population mean",
+                                       mod_mobility_ui("mobile_plot")))),
+      ),
+      tabItem(
+        tabName = 'about',
+        fluidPage(
+          fluidRow(
+            div(img(src='www/logo.png', align = "center"), style="text-align: center;"),
+            h4('Built in partnership with ',
+               a(href = 'http://databrew.cc',
+                 target='_blank', 'Databrew'),
+               align = 'center'),
+            p('Empowering research and analysis through collaborative data science.', align = 'center'),
+            div(a(actionButton(inputId = "email", label = "info@databrew.cc", 
+                               icon = icon("envelope", lib = "font-awesome")),
+                  href="mailto:info@databrew.cc",
+                  align = 'center')), 
+            style = 'text-align:center;'
+          )
+        )
+      )
+    )
+  )
+}
+

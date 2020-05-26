@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590432975467.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5FBB7918",
+    "lastKnownWriteTime" : 1590432979,
+    "last_content_update" : 1590432979483,
+    "path" : "~/Documents/covid19mobility/dev/03_deploy.R",
+    "project_path" : "dev/03_deploy.R",
+    "properties" : {
+        "cursorPosition" : "20,0",
+        "scrollLine" : "3"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
